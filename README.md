@@ -1,1 +1,1 @@
-# text_to_embedding
+# 地端文字轉向量相似度搜尋
